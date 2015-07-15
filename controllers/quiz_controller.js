@@ -12,6 +12,6 @@ exports.answer = function(req,res) {
     }
 };
 
-export.answer = function(req,res) {
+exports.answer = function(req,res) {
     res.render('author');
 };
